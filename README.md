@@ -7,4 +7,4 @@ These should play nice with slack. A couple are big so there is a transparent ba
 ya, they are janky
 
 ### Licence
-Credit me where you can, there isn't a way to do that in slack so don't worry about it there. I don't have any money to go after anyone anyway.
+Credit me where you can, there isn't a way to do that in slack so don't worry about it there. I don't have any money to go after anyone anyway. These are not allowed to be used to train AI models or do any duplication. No exceptions. Don't be a jerk.
